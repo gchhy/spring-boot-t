@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloudcenter" />
         <module name="comhyspringboot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloudcenter" target="1.7" />
       <module name="comhyspringboot" target="1.7" />
     </bytecodeTargetLevel>
   </component>

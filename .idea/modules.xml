@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudcenter/cloudcenter.iml" filepath="$PROJECT_DIR$/cloudcenter/cloudcenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/comhyspringboot/comhyspringboot.iml" filepath="$PROJECT_DIR$/comhyspringboot/comhyspringboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase.iml" filepath="$PROJECT_DIR$/javase.iml" />
     </modules>
