@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="comhyspringboot:war">
     <output-path>$PROJECT_DIR$/comhyspringboot/target</output-path>
-    <root id="archive" name="com.hy.springboot-1.0-SNAPSHOT.war">
+    <root id="archive" name="clapp.war">
       <element id="artifact" artifact-name="comhyspringboot:war exploded" />
     </root>
   </artifact>

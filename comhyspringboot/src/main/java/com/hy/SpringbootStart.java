@@ -1,3 +1,5 @@
+package com.hy;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
@@ -5,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * Created by Administrator on 2017/7/27 0027.
  */
-@ComponentScan(basePackages = "")
+@ComponentScan(basePackages = "com.hy")
 @SpringBootApplication
 public class SpringbootStart {
 
